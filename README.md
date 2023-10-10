@@ -1,4 +1,7 @@
-### Hi there 👋
+# You've stumbled on my GitHub profile 👀
+
+## Important Links 🔗
+- [Portfolio](https://aakashpereira.me)
 
 <!--
 **TheDarthHazard/TheDarthHazard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
