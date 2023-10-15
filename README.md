@@ -1,5 +1,8 @@
 # You've stumbled on my GitHub profile 👀
 
+## What am I up to?
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDarthHazard)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/TheDarthHazard))
+
 ## Important Links 🔗
 - [Portfolio](https://aakashpereira.me)
 
