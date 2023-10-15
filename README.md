@@ -1,10 +1,14 @@
-# You've stumbled on my GitHub profile 👀
+<kbd>![Hi, I'm Aakash](https://github.com/TheDarthHazard/TheDarthHazard/blob/main/header.png)</kbd>
 
-## What am I up to?
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDarthHazard)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/TheDarthHazard))
+## 👷‍♂️ What am I up to?
+- Scrimba Frontend Development Course
+- Creating Portfolio
 
-## Important Links 🔗
+## 🔗 Important Links 
 - [Portfolio](https://aakashpereira.me)
+
+## 🔢 Statistics
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDarthHazard)
 
 <!--
 **TheDarthHazard/TheDarthHazard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
