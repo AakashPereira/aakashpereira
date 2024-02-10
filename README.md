@@ -1,4 +1,4 @@
-<kbd>![Hi, I'm Aakash](https://github.com/AakashPereira/aakashpereira/blob/main/header.png)</kbd>
+<kbd>![Hi, I'm Aakash](https://github.com/AakashPereira/aakashpereira/blob/main/header.png?)</kbd>
 
 ## 👷‍♂️ What am I up to?
 - Scrimba Frontend Development Course
