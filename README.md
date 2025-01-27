@@ -1,4 +1,4 @@
-![Hi, I'm Aakash](https://github.com/AakashPereira/aakashpereira/blob/main/profile-header.png)
+![Hi, I'm Aakash](https://github.com/AakashPereira/aakashpereira/blob/main/github-header.png)
 
 ## 👷‍♂️ What am I up to?
 - Scrimba Frontend Development Course
